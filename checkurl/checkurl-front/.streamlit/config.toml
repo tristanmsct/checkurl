@@ -1,0 +1,7 @@
+[server]
+port = 9191
+
+[browser]
+serverAddress = "checkurl.datartichaut.com"
+gatherUsageStats = true
+serverPort = 80
